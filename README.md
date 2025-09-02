@@ -56,8 +56,8 @@
       <br><strong>flask</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br><strong>FastAPI</strong>
+      <img src="https://skillicons.dev/icons?i=ethers" width="48" height="48" alt="ethers" />
+      <br><strong>ethers</strong>
     </td>
   </tr>
 </table>
@@ -124,7 +124,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![flask](https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![ethers](https://img.shields.io/badge/ethers-005571?style=for-the-badge&logo=ethers)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
